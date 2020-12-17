@@ -10,7 +10,7 @@ The function of this program is to help the user improve his mental arithmetic s
 
 Select the game mode:
 
-•	Speedrun: In this game mode the user has to solve ten calculations right as fast as he can. The program will start the clock when it shows the user the first numbers and stop the time when the user successfully solves his tenth calculation
+  • Speedrun: In this game mode the user has to solve ten calculations right as fast as he can. The program will start the clock when it shows the user the first numbers and stop the time when the user successfully solves his tenth calculation
 
 •	Timer: In this game mode the user must solve as many calculations right as he can before the timer runs out. Depending the difficulty setting the timer will be set either at 60 seconds or 90 seconds
 
