@@ -32,3 +32,6 @@ Track your process:
 4.	Continues or breaks the loop
 5.	Allows the user to save the result in a leaderboard
 6.	Allows the user to open the leaderboard
+
+
+--> Enjoy the game! :)
