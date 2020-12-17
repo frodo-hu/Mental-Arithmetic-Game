@@ -18,7 +18,7 @@ Choose the difficulty setting:
 
 •	Easy: The program will randomly choose two numbers in the range of 1 to 10 for the user to multiply. Additionally, in the game mode timer the user will have the timer set at 60 seconds with this difficulty setting.
 
-•	Hard: The program will randomly choose two numbers in the range of 10 to 100 for the user to multiply. Additionally, in the game mode timer the user will have the timer set at 90 seconds with this difficulty setting.
+•	Hard: The program will randomly choose two numbers in the range of 10 to 30 for the user to multiply. Additionally, in the game mode timer the user will have the timer set at 90 seconds with this difficulty setting.
 
 Track your process: 
 
