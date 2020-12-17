@@ -2,7 +2,7 @@
 
 Please read these instructions before using the program.
 
-**Description:
+**Description:**
 
 The function of this program is to help the user improve his mental arithmetic skills. To reach an improvement the program will randomly generate calculations for the user to solve. Additionally there will be different game-modes and difficulty settings from which the user can choose from to make sure that the program can help everyone from beginner to pro with their mental arithmetic skills.
 
@@ -24,7 +24,7 @@ Track your process:
 
 •	If the user chooses the hard difficulty setting in either game mode he/she will be able to save his/her score in a leaderboard. This functions allows the user to track the process made up to this point. The file is saved on the drive of the user, that he/she can open and close the code and keep the leaderboard.
 
-**Execution of code:
+**Execution of code:**
 
 1.	Randomly selects two integers in a given range and shows them to the user
 2.	Multiplies the two integers and compares answer to users guess
