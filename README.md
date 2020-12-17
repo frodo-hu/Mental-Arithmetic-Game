@@ -6,7 +6,7 @@ Please read these instructions before using the program.
 
 The function of this program is to help the user improve his mental arithmetic skills. To reach an improvement the program will randomly generate calculations for the user to solve. Additionally there will be different game-modes and difficulty settings from which the user can choose from to make sure that the program can help everyone from beginner to pro with their mental arithmetic skills.
 
-**How to use:
+**How to use:**
 
 Select the game mode:
 
