@@ -20,7 +20,7 @@ Choose the difficulty setting:
 
 •	Hard: The program will randomly choose two numbers in the range of 10 to 30 for the user to multiply. Additionally, in the game mode timer the user will have the timer set at 90 seconds with this difficulty setting.
 
-Track your process: 
+Track your progress: 
 
 •	If the user chooses the hard difficulty setting in either game mode he/she will be able to save his/her score in a leaderboard. This functions allows the user to track the process made up to this point. The file is saved on the drive of the user, that he/she can open and close the code and keep the leaderboard.
 
